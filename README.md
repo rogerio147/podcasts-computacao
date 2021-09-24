@@ -23,6 +23,8 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 ## Inglês na Programação
 - Não sei inglês, e agora? | Podcast FalaDev #03 - ROCKETSEAT (https://www.youtube.com/watch?v=keMIEpZxQNI)
 
+## Filipe Alves: Mestre em Ciência da Computação (Metadata #7) ( https://www.youtube.com/watch?v=ZVVztV3lSUM )
+
 # Contribuindo
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
