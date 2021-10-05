@@ -27,6 +27,7 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 ## Inglês na Programação
 - Não sei inglês, e agora? | Podcast FalaDev #03 - ROCKETSEAT (https://www.youtube.com/watch?v=keMIEpZxQNI)
 
+<<<<<<< HEAD
 ## Ciência de dados
 - Cientista de Dados [Tecnocast 077](https://www.youtube.com/watch?v=dh7CCeCbcco)
 - Sinapse #28 - [Hacker éticos, privacidade na internet e o Backdoor do Greg](https://open.spotify.com/episode/3Tv11Rt0JRWUWD6tpBtUl9?si=bf138681091c448d)
@@ -36,6 +37,7 @@ PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v
 
 ## Legislação, Ética e Sociedade
 - Lei Geral de Proteção de Dados | Braincast 337 | B9 Podcasts (https://www.youtube.com/watch?v=ZUi-nAwtPB8&list=PLTQfxLkE9O6wjfZT0xG9VBSfeNUwSBN_5&index=37)
+
 
 # Contribuindo
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
