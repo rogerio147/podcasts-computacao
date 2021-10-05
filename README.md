@@ -36,7 +36,7 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v=78tGaUbXSOw&ab_channel=PodProgramar)
 
 ## Legislação, Ética e Sociedade
-- Lei Geral de Proteção de Dados | Braincast 337 | B9 Podcasts (https://www.youtube.com/watch?v=ZUi-nAwtPB8&list=PLTQfxLkE9O6wjfZT0xG9VBSfeNUwSBN_5&index=37)
+- [Lei Geral de Proteção de Dados | Braincast 337 | B9 Podcasts] (https://www.youtube.com/watch?v=ZUi-nAwtPB8&list=PLTQfxLkE9O6wjfZT0xG9VBSfeNUwSBN_5&index=37)
 
 
 # Contribuindo
